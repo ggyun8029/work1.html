@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+}
+h1 span:nth-child(1)
+{color: #4284f7; }
+h1 span:nth-child(2)
+{color: #ef4239; }
+h1 span:nth-child(3)
+{color:#ffbd08; }
+h1 span:nth-child(4)
+{color: #4284f7; }
+h1 span:nth-child(5)
+{color:#31ab52; }
+h1 span:nth-child(6)
+{color: #eb4338; }
+
+.search-bar{
+    margin-left: 550px;
+    width: 600px;
+}
+.google{
+    text-decoration-line: none;
+}
+.naver{
+    color: #04cf5c;
+    text-decoration-line: none;
+}
+.youtube{
+    color:#ff0000;
+    text-decoration-line: none;
+}
+.god
+{
+    text-align: center;
+    font-size: 8em;
+    color: gold;
+}
